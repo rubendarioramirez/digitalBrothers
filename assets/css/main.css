@@ -2946,8 +2946,10 @@
 		#banner p {
 			font-size: 1.25em;
 			margin-bottom: 1.75em;
-            color: black;
-            background-color: rgba(144, 144, 144, 0.7)
+			padding: 15px 0;
+            color: #fdfdfd;
+            /*background-color: rgba(144, 144, 144, 0.7)*/
+            background-color: rgba(0, 0, 0, 0.7)
 		}
 
 		@media screen and (max-width: 1280px) {
